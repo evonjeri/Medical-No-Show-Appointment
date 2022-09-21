@@ -1,5 +1,6 @@
 # Medical-No-Show-Appointment
 This analysis is part of my Udacity Data Analysis Nanodegree program that I took and aims to explore a dataset containing aproximately 100k medical appointments from the Brazilian public health system.  I found insights about the problem, reviewed and communicated.I focused on the question of whether or not patients show up for their appointment. **
+
 Data Dictionary
 01 - PatientId: Identification of a patient
 02 - AppointmentID: Identification of each appointment
