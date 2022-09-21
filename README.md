@@ -4,8 +4,7 @@ This analysis is part of my Udacity Data Analysis Nanodegree program that I took
 Data Dictionary
 
 01 - PatientId: Identification of a patient<br>
-
-02 - AppointmentID: Identification of each appointment
+02 - AppointmentID: Identification of each appointment<br>
 
 03 - Gender: Male or Female .
 
