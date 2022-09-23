@@ -5,17 +5,15 @@ Data Dictionary
 
 01 - PatientId: Identification of a patient<br>
 02 - AppointmentID: Identification of each appointment<br>
-
-03 - Gender: Male or Female .
-
-04 - ScheduledDay: is the day someone called or registered the appointment, this is before appointment
-05 - Appointment day: is the day of the actual appointment
-06 - Age: How old is the patient.
-07 - Neighbourhood: Where the appointment takes place.
-08 - Scholarship: True of False .
-09 - Hipertension: True or False
-10 - Diabetes: True or False
-11 - Alcoholism: True or False
-12 - Handcap: True or False
-13 - SMS_received: 1 or more messages sent to the patient.
+03 - Gender: Male or Female<br>
+04 - ScheduledDay: is the day someone called or registered the appointment, this is before appointment<br>
+05 - Appointment day: is the day of the actual appointment<br>
+06 - Age: How old is the patient.<br>
+07 - Neighbourhood: Where the appointment takes place.<br>
+08 - Scholarship: True of False.<br>
+09 - Hipertension: True or False<br>
+10 - Diabetes: True or False<br>
+11 - Alcoholism: True or False<br>
+12 - Handcap: True or False<br>
+13 - SMS_received: 1 or more messages sent to the patient.<br>
 14- No-show: True or False.
